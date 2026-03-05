@@ -52,6 +52,10 @@ El proyecto sigue el patrón **MVC (Model-View-Controller)**:
 - **View** (`dados_view.py`): Maneja la interfaz gráfica
 - **Controller** (`dados_controller.py`): Coordina el modelo y la vista
 
-## Autor
+## Autores
 
-Santiago - Universidad - Matemáticas
+Juan David Machado M
+Jean Pierre Ortiz Arango
+Santiago Muñoz vasquez
+David Prada Quintero
+Kevin Cardenas Rivillas
