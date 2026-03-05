@@ -37,4 +37,4 @@ Model (dados_model.py): Contiene la lógica de negocio y cálculos
 View (dados_view.py): Maneja la interfaz gráfica
 Controller (dados_controller.py): Coordina el modelo y la vista
 Autores
-Juan David Machado M, Jean Pierre Ortiz Arango, Santiago Muñoz vasquez, David Prada Quintero, Kevin Cardenas Rivillas
+Juan David Machado M Jean Pierre Ortiz Arango Santiago Muñoz vasquez David Prada Quintero Kevin Cardenas Rivillas
